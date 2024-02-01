@@ -4,7 +4,7 @@
 
 :books: Master's degree in Data Science in progress, skilling in predictive analysis of electrical maintenance. Recently working with machine learning (data collection and exploration, pre-processing and transformation, modeling, training and testing) to gain insights from complex maintenance datasets.  
 
-:chart_with_upwards_trend: I am currently learning Python, Machine Learning, SQL, Power BI.  
+:chart_with_upwards_trend: I'm always learning Python, Machine Learning, SQL, Power BI.  
 
 📫You can find me via email at igorwebd@gmail.com  
 
