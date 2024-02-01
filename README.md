@@ -1,4 +1,4 @@
-## Hi 👋, I'm Igor Ambrozini, migrating from Data Analyst to Data Scientist.  
+## Hi 👋, I'm Igor Ambrozini, Master's student in Data Science.
 
 🔭 I'm a production engineer, electrical technician with +5 years in the industry, assisting the maintenance team in fault analysis and coordinating a small production line of equipment for predictive monitoring of motors, transformers, solar panels and wind turbines.  
 
