@@ -4,7 +4,7 @@
 
 :books:  I recently completed my Master's degree in Data Science and Artificial Intelligence. I've been working with machine learning, focusing on data collection and exploration, pre-processing, transformation, modeling, training, and testing to gain insights from complex maintenance datasets, aiming to create new products and enhance the client experience.
 
-:chart_with_upwards_trend: Continuously learning Python, Machine Learning techniques, SQL queries, Excel and Power BI visualizations.
+:chart_with_upwards_trend: Continuously learning Data Science/Engineering, Python, SQL, Machine/Deep Learning techniques.
 
 📫 Reach me via email at igorwebd@gmail.com.
 
