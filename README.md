@@ -22,7 +22,7 @@ Engineer with a Master's degree in Artificial Intelligence and Data Science. Res
 - Collaborate with international teams to deliver AI-powered solutions for industrial processes across Latin America.
 
 💬 **Languages:** Portuguese (native), English (C1), Spanish (A2)  
-🌍 **Based in:** Brazil — open to international/remote opportunities 🇪🇺🇨🇦🇪🇸  
+🌍 **Based in:** Brazil — open to international/remote opportunities
 
 📫 **Let's connect!**  
 [📧 Email](mailto:igorwebd@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/igor-ambrozini)
