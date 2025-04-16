@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Igor Ambrozini.
 
-🎯 **Data Scientist & Data Engineer 
+🎯 **Data Scientist & Data Engineer**
 
 Engineer with a Master's degree in Artificial Intelligence and Data Science. Researcher with a multidisciplinary profile, +6 years of data working with international teams, experienced in forecasting, data engineering, predictive maintenance, industrial process optimization, and business intelligence, focused on creating value through innovative solutions and optimization.
 
