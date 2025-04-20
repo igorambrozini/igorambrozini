@@ -2,7 +2,7 @@
 
 🎯 **Data Scientist & Data Engineer**
 
-Engineer with a Master's degree in Artificial Intelligence and Data Science. Researcher with a multidisciplinary profile, +6 years of data working with international teams, experienced in forecasting, data engineering, predictive maintenance, industrial process optimization, and business intelligence, focused on creating value through innovative solutions and optimization.
+Engineer with a Master's Degree in Artificial Intelligence and Data Science. Researcher with a multidisciplinary profile, +6 years of data working with international teams, experienced in forecasting, data engineering, predictive maintenance, industrial process optimization, and business intelligence, focused on creating value through innovative solutions and optimization.
 
 - 📚 **Tech Stack:**
 `Python` | `Scikit-learn` | `TensorFlow` | `SQL/PostgreSQL` |  `BI` |  
