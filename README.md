@@ -2,11 +2,10 @@
 
 🎯 **Data Scientist & Data Engineer**
 
-Engineer with a Master's Degree in Artificial Intelligence and Data Science. Researcher with a multidisciplinary profile, +6 years of data working with international teams, experienced in forecasting, data engineering, predictive maintenance, industrial process optimization, and business intelligence, focused on creating value through innovative solutions and optimization.
+Technical Project/Production Engineer with a Professional Master's Degree in Artificial Intelligence and Data Science. Researcher with a multidisciplinary profile, +7 years working with international teams, experienced in forecasting, data engineering, predictive maintenance, industrial process optimization, and business intelligence, focused on creating value through innovative solutions and optimization.
 
 - 📚 **Tech Stack:**
-`Python` | `Scikit-learn` | `TensorFlow` | `PostgreSQL/MongoDB` |  `POWER BI` | `EXCEL` |  
-`PySpark/Databricks` | `AWS` | `Docker` | `dbt` | `ETL Pipelines` | ``Airflow`` | `Linux` | `APIs` |  `GIT` |
+`Python` | `Scikit-learn` | `TensorFlow` | `PostgreSQL` |  `POWER BI` | `EXCEL` |  `AWS` | `Docker` | `ETL Pipelines` | ``Airflow`` | `Linux` | `APIs` |  `GIT` |
 
 
 🚀 **Key Achievements:**
@@ -17,7 +16,7 @@ Engineer with a Master's Degree in Artificial Intelligence and Data Science. Res
 
 🔧 **What I do:**
 - Develop predictive models using Python and deep learning to anticipate equipment failures and extend asset life.
-- Automate data pipelines (ETL/ELT) and deploy scalable solutions using tools like Databricks, Docker, and MLflow.
+- Automate data pipelines (ETL) and deploy AI on-premisse solutions using tools like Docker and Airflow.
 - Analyze time series and maintenance data to uncover hidden patterns and inform proactive decisions.
 - Collaborate with international teams to deliver AI-powered solutions for industrial processes across Latin America.
 
