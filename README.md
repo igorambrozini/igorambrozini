@@ -2,7 +2,7 @@
 
 🎯 **Technical Project Coordinator – Predictive Maintenance & Data Science**
 
-Technical Project/Production Engineer with a Professional Master's Degree in Artificial Intelligence and Data Science. Researcher with a multidisciplinary profile, +7 years working with international teams, experienced in forecasting, data engineering, predictive maintenance, industrial process optimization, and business intelligence, focused on creating value through innovative solutions and optimization.
+Technical Project/Production Engineer with a Professional Master's Degree in Artificial Intelligence and Data Science. Researcher with a multidisciplinary profile, +7 years working with international teams. Led predictive monitoring projects for over 30 industrial plants across Brazil and Latin America, and in the last 2+ years has specialized in and applied Data Science and Analytics to predictive maintenance. Experienced in forecasting, data engineering, predictive maintenance, industrial process optimization, and business intelligence.
 
 - 📚 **Tech Stack:**
 `Python` | `Scikit-learn` | `TensorFlow` | `PostgreSQL` |  `POWER BI` | `EXCEL` |  `AWS` | `Docker` | `ETL Pipelines` | ``Airflow`` | `Linux` | `APIs` |  `GIT` |
