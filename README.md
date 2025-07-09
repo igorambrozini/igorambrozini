@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Igor Ambrozini.
 
-🎯 **Data Scientist & Data Engineer**
+🎯 **Technical Project Coordinator – Predictive Maintenance & Data Science**
 
 Technical Project/Production Engineer with a Professional Master's Degree in Artificial Intelligence and Data Science. Researcher with a multidisciplinary profile, +7 years working with international teams, experienced in forecasting, data engineering, predictive maintenance, industrial process optimization, and business intelligence, focused on creating value through innovative solutions and optimization.
 
