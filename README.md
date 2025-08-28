@@ -1,24 +1,24 @@
 # 👋 Hello, I'm Igor Ambrozini.
 
-🎯 **Technical Project Coordinator – Predictive Maintenance & Data Science**
+🎯 **Data Scientist | Industrial Data and Analytics**
 
-Technical Project/Production Engineer with a Professional Master's Degree in Artificial Intelligence and Data Science. Researcher with a multidisciplinary profile, +7 years working with international teams. Led predictive monitoring projects for over 30 industrial plants across Brazil and Latin America, and in the last 2+ years has specialized in and applied Data Science and Analytics to predictive maintenance. Experienced in forecasting, data engineering, predictive maintenance, industrial process optimization, and business intelligence.
+Data Scientist with 2+ years of hands-on experience in predictive maintenance and 7+ years of analyzing industrial data (cement, steel, energy, paper). Master's in AI & Data Science. Passionate about deploying scalable data solutions in collaboration with international teams.
 
 - 📚 **Tech Stack:**
-`Python` | `Scikit-learn` | `TensorFlow` | `PostgreSQL` |  `POWER BI` | `EXCEL` |  `AWS` | `Docker` | `ETL Pipelines` | ``Airflow`` | `Linux` | `APIs` |  `GIT` |
+`Python` | `Scikit-learn` | `TensorFlow` | `PyTorch` | `MySQL` | `PostgreSQL` |  `AWS` | `Azure` | `Databricks` | `Docker` | `MLflow` | `Airflow` | `Linux` |  `GIT` |
 
 
 🚀 **Key Achievements:**
-- Reduced unplanned downtime saving up to **USD 200,000/day** in production losses.
-- Increased equipment lifespan by over **20%** using time series forecasting.
-- Applied and optimized fuzzy logic-based systems, improving control performance and reducing **energy consumption up to 10%** in electric machines.
-- Improved inventory planning, increasing annual sales by **10%** through data-driven forecasting.
+- Avoided unplanned downtime, saving **up to USD 200K/day** in production losses.  
+- Increased equipment **lifespan by 20%** using ML-driven forecasts.  
+- Applied and optimized fuzzy logic-based systems, improving control performance and reducing **energy consumption up to 10%** in electric machines.  
+- Improved inventory planning, **boosting annual sales by 15%** through data-driven forecasting.  
 
-🔧 **What I do:**
-- Develop predictive models using Python and deep learning to anticipate equipment failures and extend asset life.
-- Automate data pipelines (ETL) and deploy AI on-premisse solutions using tools like Docker and Airflow.
-- Analyze time series and maintenance data to uncover hidden patterns and inform proactive decisions.
-- Collaborate with international teams to deliver AI-powered solutions for industrial processes across Latin America.
+🔧 **What I do:**  
+- Develop predictive ML models (failure forecasting, RUL, anomaly detection).  
+- Automate ETL pipelines and deploy AI solutions using Docker, Airflow, MLflow.  
+- Analyze time-series and maintenance datasets to drive proactive decision-making.  
+- Collaborate with international teams to deliver AI solutions across LATAM industries.
 
 💬 **Languages:** Portuguese (native), English (C1), Spanish (A2)  
 🌍 **Based in:** Brazil — open to international/remote opportunities
