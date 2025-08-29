@@ -2,7 +2,7 @@
 
 🎯 **Data Scientist | Industrial Data and Analytics**
 
-Data Scientist with 2+ years of hands-on experience in predictive maintenance and 7+ years of analyzing industrial data (cement, steel, energy, paper). Master's in AI & Data Science. Passionate about deploying scalable data solutions in collaboration with international teams.
+Data Scientist with 2+ years of hands-on experience in predictive maintenance and 7+ years of analyzing industrial data (cement, steel, mining, energy, paper). Master's in AI & Data Science. Passionate about deploying scalable data solutions in collaboration with international teams.
 
 - 📚 **Tech Stack:**
 `Python` | `Scikit-learn` | `TensorFlow` | `PyTorch` | `MySQL` | `PostgreSQL` |  `AWS` | `Azure` | `Databricks` | `Docker` | `MLflow` | `Airflow` | `Linux` |  `GIT` |
