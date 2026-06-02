@@ -21,7 +21,7 @@ Solutions Engineer. Data Scientist with 2+ years of hands-on experience in predi
 - Analyze time-series and maintenance datasets to drive proactive decision-making.  
 
 
-💬 **Languages:** Portuguese (native), English (C1), Spanish (A2) , learning Italian.
+💬 **Languages:** Portuguese (native), English (C1), Spanish (A2) , learning Italian (Italian citizenship in progress).    
 🌍 **Based in:** Italy — open to international/remote opportunities.
 
 📫 **Let's connect!**  
