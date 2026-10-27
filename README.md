@@ -6,7 +6,7 @@ With over **10 years of experience** in the industrial sector and **3+ years ded
 
 ### 📚 Tech Stack
 **Languages & Frameworks:** Python (Pandas, Scikit-Learn, FastAPI) | SQL (PostgreSQL)  
-**Cloud & Data Integration:** Microsoft Fabric | AWS | Databricks 
+**Cloud & Data Integration:** Microsoft Fabric | AWS | Databricks  
 **Deployment & DevOps:** Docker | MLflow | Airflow | Git | Linux
 
 ### 🚀 Key Achievements
