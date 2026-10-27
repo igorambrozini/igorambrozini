@@ -10,7 +10,7 @@ With over **10 years of experience** in the industrial sector and **3+ years ded
 **Deployment & DevOps:** Docker | MLflow | Airflow | Git | Linux
 
 ### 🚀 Key Achievements
-- ⚙️ **Predictive Maintenance (RUL):** Engineered ML pipelines that increased asset lifespan by 20% and detected high-risk deviations 1 week in advance, saving up to USD 200K/day in avoided downtime.
+- ⚙️ **Predictive Maintenance (RUL):** Engineered ML pipelines that increased asset lifespan by 20% and detected high-risk deviations 1 week in advance, saving up to USD 200K in avoided downtime.
 - 📈 **Inventory Optimization:** Developed K-Means segmentation models to dynamically recalculate inventory parameters, shifting from on-demand to immediate sales and increasing revenue by 15%.
 - 🤖 **Generative AI (RAG):** Built a RAG system to automate fault insights from complex historical technical reports, reducing analysis time by 50%.
 - ⚡ **Control Systems:** Applied and optimized fuzzy logic-based systems, improving control performance and reducing energy consumption by up to 10% in electric machines.
